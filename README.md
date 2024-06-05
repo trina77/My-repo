@@ -1,1 +1,1 @@
-# My-repo
+I am a passionate engineering student with a strong desire to learn full stack web development , ui/ux.For graphics I use canva figma and currently learning on using photoshop.I have been brushing my skills on next js react and working on a few small projects.
